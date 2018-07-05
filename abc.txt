@@ -1,1 +1,2 @@
 this is the first txt file for git.
+this is the second.
